@@ -1,4 +1,5 @@
 // Applying the concept of variable naming ✔
+// https://efficient-sloth-d85.notion.site/Desafio-Nomea-o-de-vari-veis-0a8484a8cdc743558d6677910590a874
 
 const UserList = [
   {
